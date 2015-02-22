@@ -1,0 +1,10 @@
+{
+  "name": "MSNode",
+  "version": "0.0.0",
+  "description": "MSNode",
+  "main": "app.js",
+  "author": {
+    "name": "slobo",
+    "email": ""
+  }
+}
