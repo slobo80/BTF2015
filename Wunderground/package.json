@@ -1,0 +1,13 @@
+{
+  "name": "Wunderground",
+  "version": "0.0.0",
+  "description": "Wunderground",
+  "main": "app.js",
+  "author": {
+    "name": "slobo",
+    "email": ""
+  },
+  "dependencies": {
+    "wunderground-api": "^1.1.4"
+  }
+}
